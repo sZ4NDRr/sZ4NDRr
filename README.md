@@ -1,5 +1,4 @@
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/f9fb3170-1359-4df2-b8f7-3053fc2d1569" />
-
+<img width="800" height="425" alt="image" src="https://github.com/user-attachments/assets/f9fb3170-1359-4df2-b8f7-3053fc2d1569" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+like+hot+dog;+Because+its+not+a+dog;+Do+you+like+hot+dog)](https://git.io/typing-svg)
 
